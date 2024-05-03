@@ -1,4 +1,4 @@
-# Interpreting a Network Diagram
+# Interpréter un diagramme réseau
 
 ## Intro
 

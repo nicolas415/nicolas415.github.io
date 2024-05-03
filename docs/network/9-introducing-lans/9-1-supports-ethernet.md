@@ -1,4 +1,4 @@
-# Ethernet LAN Connection Media
+# Supports de connexion LAN Ethernet
 
 ## Intro
 
