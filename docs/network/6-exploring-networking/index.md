@@ -1,1 +1,1 @@
-# 6 - Exploration des fonctionnalités du réseau
+# Exploration des fonctionnalités du réseau

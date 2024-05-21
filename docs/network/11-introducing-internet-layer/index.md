@@ -1,4 +1,4 @@
-# 11 - Introduction à la couche Internet TCP/IP, l'adressage IPv4 et aux sous-réseaux
+# Introduction à la couche Internet TCP/IP, l'adressage IPv4 et aux sous-réseaux
 
 ## Introduction
 
