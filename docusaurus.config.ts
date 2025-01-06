@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-    title: "Devops Notes",
-    tagline: "Resources for cloud and sysadmin",
+    title: "Nicolas415 - Notes",
+    // tagline: "Resources for cloud and sysadmin",
     favicon: "img/favicon.ico",
 
     // Set the production url of your site here
@@ -37,8 +37,8 @@ const config: Config = {
                     sidebarPath: "./sidebars.ts",
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        "https://github.com/nicolas415/nicolas415.github.io/blob/main",
+                    // editUrl:
+                    //     "https://github.com/nicolas415/nicolas415.github.io/blob/main",
                 },
                 // blog: {
                 //     // showReadingTime: true,
@@ -58,9 +58,9 @@ const config: Config = {
         // Replace with your project's social card
         image: "img/docusaurus-social-card.jpg",
         navbar: {
-            title: "Devops Notes",
+            title: "Nicolas415",
             logo: {
-                alt: "Devops Notes Logo",
+                alt: "Notes Logo",
                 src: "img/logo.svg",
             },
             items: [
@@ -68,7 +68,7 @@ const config: Config = {
                     type: "docSidebar",
                     sidebarId: "sidebarNetwork",
                     position: "left",
-                    label: "Notes Cisco",
+                    label: "Réseaux",
                 },
                 // { to: "/blog", label: "Blog", position: "left" },
                 // {
