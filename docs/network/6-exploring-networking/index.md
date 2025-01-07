@@ -1,5 +1,5 @@
 # Exploration des fonctionnalités du réseau
 
-### Dans ce chapitre :
+### Dans cette section :
 * Introduction de la notion de réseau 
 * Introduction introduction du diagramme de réseau
